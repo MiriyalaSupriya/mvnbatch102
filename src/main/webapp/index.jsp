@@ -1,6 +1,6 @@
 <html>
 <body>
-<h1>      Release_1.0.1  </h1>
+<h1>      Release_1.0.2 </h1>
 <h2>               Hello Friends!               </h2>
 <h3> !!!!!!!! WELCOME TO DEVOPS with GCP!!!!!!!!     </h3>
 <marquee behavior="alternate"> S@TY@</marquee>
